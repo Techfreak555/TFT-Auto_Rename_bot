@@ -63,11 +63,11 @@ python3 bot.py
 <details><summary><b> Required Data :</b></summary>
 ### Variables
 
-* `API_HASH` Your API Hash from my.telegram.org
-* `APP_ID` Your API ID from my.telegram.org
-* `TG_BOT_TOKEN` Your bot token from @BotFather
-* `OWNER_ID` Must enter Your Telegram Id
-* `LOG_CHANNEL_ID` Your Channel ID eg:- -100xxxxxxxx
+* `API_HASH` e697c5516c8e3ed7e4b926beae175f00
+* `APP_ID` 34260995
+* `TG_BOT_TOKEN`5843289416:AAGwf_le71mgLFZbSH5IblsBKIz0V-saMQo
+* `OWNER_ID` @Suriyarasikan
+* `LOG_CHANNEL_ID` https://t.me/Tamil_Blaster_Officiall
 * `DATABASE_URL` Your mongo db url
 * `ADMINS` Optional: A space separated list of user_ids of Admins, they can only create links
 * `START_MESSAGE` Optional: start message of bot, use HTML and <a href='https://github.com/Techfreak555/TFT-Auto_Rename_bot/blob/main/README.md#start_message'>fillings</a>
